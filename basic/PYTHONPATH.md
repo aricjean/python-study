@@ -22,7 +22,7 @@ print(os.sys.path)
 import urllib
 Python解释器会逐个从上面的路径列表选出一个路径然后搜索urllib模块直到找到为止。这里最后在 'D:\\Python\\Python38-32\\lib' 下找到
 
-D:\Python\Python38-32Lib\site-packages目录下全部是第三方Python模块
+D:\Python\Python38-32\Lib\site-packages目录下全部是第三方Python模块
 
 ### 注意
 使用import xx语法时，xx只能是模块路径（一个模块一般是指一个package或者一个以.py为后缀的文件，不一般的情况包括.pth、.dll以及其他扩展形式）。
