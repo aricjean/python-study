@@ -22,3 +22,5 @@ Python 2.7 被确定为最后一个 Python 2.x 版本，它除了支持 Python 2
 9. GUI编程：Python支持GUI可以创建和移植到许多系统调用。
 10. 可嵌入: 你可以将Python嵌入到C/C++程序，让你的程序的用户获得"脚本化"的能力。
 
+### 参考
+[Python3 简介](https://www.runoob.com/python3/python3-intro.html)
