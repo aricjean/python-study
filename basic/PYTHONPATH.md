@@ -13,7 +13,7 @@ print(os.sys.path)
 'D:\\Python\\Python38-32\\DLLs',
 'D:\\Python\\Python38-32\\lib',
 'D:\\Python\\Python38-32',
-'C:\\Users\\YSXX\\AppData\\Roaming\\Python\\Python38\\site-packages',
+'C:\\Users\\XXXX\\AppData\\Roaming\\Python\\Python38\\site-packages',
 'D:\\Python\\Python38-32\\lib\\site-packages'
 ]
 ```
